@@ -95,4 +95,9 @@
 </div>
 
 ###
-###
+
+<div align="center">
+<h3>Support:</h3>
+<p><a href="https://www.buymeacoffee.com/harshpro206"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/harshpro206" /></a></p>
+</div>
+
